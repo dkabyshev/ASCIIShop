@@ -1,0 +1,6 @@
+framework module Pods_ASCIIShop {
+  umbrella header "Pods-ASCIIShop-umbrella.h"
+
+  export *
+  module * { export * }
+}
